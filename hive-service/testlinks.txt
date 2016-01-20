@@ -1,0 +1,11 @@
+http://192.168.99.100:8888/hive-service/rest/schemes/names
+
+http://192.168.99.100:8888/hive-service/rest/schemes/uat/concepts/prefLabels
+
+http://192.168.99.100:8888/hive-service/rest/schemes/multi/concepts/tags/url?url=http://www.astronomy.com/news&vocs=uat,agrovoc&format=json
+
+http://192.168.99.100:8888/hive-service/rest/schemes/multi/concepts/tags/url?url=http://www.astronomy.com/news&vocs=uat,agrovoc&format=xml
+
+http://192.168.99.100:8888/hive-service/rest/schemes/multi/concepts/json?keyword=stars&vocs=uat,agrovoc&format=xml
+
+http://192.168.99.100:8888/hive-service/rest/schemes/multi/concepts/json?keyword=stars&vocs=uat,agrovoc&format=json

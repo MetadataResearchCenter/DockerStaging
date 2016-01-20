@@ -1,0 +1,1791 @@
+
+		
+
+		
+
+		
+			
+
+							
+
+						Astronomy
+
+						
+									From Wikipedia, the free encyclopedia
+
+								
+
+												
+					Jump to:					navigation, 					search
+				
+
+				This article is about the scientific study of celestial objects.  For other uses, see Astronomy (disambiguation).
+
+
+
+
+
+
+
+
+A star-forming region in the Large Magellanic Cloud, an irregular galaxy.
+
+
+
+
+
+
+
+
+
+
+A giant Hubble mosaic of the Crab Nebula, a supernova remnant
+
+
+
+
+
+	Part of a series on
+	Science
+	�
+	
+
+Formal
+
+
+
+	Logic
+	Mathematics
+
+
+
+
+	Mathematical logic
+	Mathematical statistics
+	Theoretical computer science
+
+
+
+
+
+
+
+	
+
+Physical
+
+
+	Astronomy
+	
+
+	Astrophysics
+	Cosmology
+	Galactic astronomy
+	Planetary geology
+	Planetary science
+	Stellar astronomy
+
+
+
+
+
+	Chemistry
+	
+
+	Acid-base
+	Alchemy
+	Analytical
+	Astrochemistry
+	Biochemistry
+	Crystallography
+	Environmental
+	Food chemistry
+	Geochemistry
+	Green (sustainable)
+	Inorganic
+	Materials science
+	Molecular physics
+	Nuclear
+	Organic
+	Photochemistry
+	Physical
+	Radiochemistry
+	Solid-state
+	Stereochemistry
+	Supramolecular
+	Surface science
+	Theoretical
+
+
+
+
+
+	Physics
+	
+
+	Classical
+	Modern
+	Applied
+
+
+
+
+
+	Experimental
+	Theoretical
+	Computational
+
+
+
+
+
+	Atomic
+	Condensed matter
+	Mechanics�(classical
+	continuum
+	fluid
+	solid)
+	Molecular
+	Nuclear
+	Particle
+	Plasma
+	Quantum field theory
+
+
+
+
+	Quantum mechanics�(introduction)
+
+
+
+	Special relativity
+	General relativity
+
+
+
+
+
+	Rheology
+	String theory
+	Thermodynamics
+
+
+
+
+
+	Earth sciences
+	
+
+	Climatology
+	Ecology
+	Edaphology
+	Environmental science
+	Geodesy
+	Geography�(physical)
+	Geology
+	Geomorphology
+	Geophysics
+	Glaciology
+	Hydrology
+	Limnology
+	Meteorology
+	Oceanography
+	Paleoclimatology
+	Paleoecology
+	Palynology
+	Pedology
+	Space science
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Life
+
+
+	Biology
+	
+
+	Anatomy
+	Astrobiology
+	Biochemistry
+	Biogeography
+	Biological engineering
+	Biophysics
+	Behavioral neuroscience
+	Biotechnology
+	Botany
+	Cell biology
+	Conservation biology
+	Cryobiology
+	Developmental biology
+	Ecology
+	Ethnobiology
+	Ethology
+
+
+
+
+	Evolutionary biology�(introduction)
+
+
+
+	Genetics�(introduction)
+	Gerontology
+	Immunology
+	Limnology
+	Marine biology
+	Microbiology
+	Molecular biology
+	Neuroscience
+	Paleontology
+	Parasitology
+	Physiology
+	Radiobiology
+	Soil biology
+	Sociobiology
+	Systematics
+	Toxicology
+	Zoology
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Social
+
+
+
+	Anthropology
+	Archaeology
+
+
+
+
+
+	Criminology
+	Demography
+	Economics
+	Human geography
+	International relations
+	Law
+	Linguistics
+	Pedagogy
+	Political science
+	Psychology
+	Science education
+	Sociology
+
+
+
+
+
+
+
+
+
+	
+
+Applied
+
+
+	Engineering
+	
+
+	Aerospace
+	Agricultural
+	Biological
+	Biomedical
+	Chemical
+	Civil
+
+
+
+
+	Computer science�/ engineering
+
+
+
+	Electrical
+	Fire protection
+	Genetic
+	Industrial
+	Mechanical
+	Military
+	Mining
+	Nuclear
+	Operations research
+	Robotics
+
+
+
+
+
+	Software
+	Web
+
+
+
+
+
+	Healthcare
+	
+
+	Dentistry
+	Epidemiology
+
+
+
+
+	Medicine�(veterinary)
+
+
+
+	Nursing
+	Pharmacy
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Interdisciplinary
+
+
+
+	Applied physics
+	Artificial intelligence
+	Bioethics
+	Bioinformatics
+	Biomedical engineering
+	Biostatistics
+	Cognitive science
+	Complex systems
+	Computational linguistics
+	Cultural studies
+	Cybernetics
+	Environmental science
+	Environmental social science
+	Environmental studies
+	Ethnic studies
+	Evolutionary psychology
+	Forestry
+	Library science
+	Mathematical and theoretical biology
+	Mathematical physics
+	Military science
+	Network science
+	Neural engineering
+	Neuroscience
+	Science studies
+	Scientific modelling
+	Semiotics
+	Sociobiology
+	Statistics
+	Systems science
+	Urban planning
+	Web science
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	Philosophy
+	History
+
+
+
+
+
+
+
+
+	Citizen science
+	Fringe science
+	Protoscience
+	Pseudoscience
+	Scientific freedom
+	Science policy
+	Scientific method
+	Technoscience
+
+
+
+
+
+
+
+
+
+	
+	Outline
+	Portal
+	Category
+
+
+
+	
+
+	v
+	t
+	e
+
+
+
+
+
+
+
+Astronomy is a natural science which is the study of celestial objects (such as stars, galaxies, planets, moons, and nebulae), the physics, chemistry, and evolution of such objects, and phenomena that originate outside the atmosphere of Earth, including supernovae explosions, gamma ray bursts, and cosmic microwave background radiation. A related but distinct subject, cosmology, is concerned with studying the universe as a whole.[1]
+
+Astronomy is one of the oldest sciences. Prehistoric cultures have left astronomical artifacts such as the Egyptian monuments and Nubian monuments, and early civilizations such as the Babylonians, Greeks, Chinese, Indians, Iranians and Maya performed methodical observations of the night sky. However, the invention of the telescope was required before astronomy was able to develop into a modern science. Historically, astronomy has included disciplines as diverse as astrometry, celestial navigation, observational astronomy and the making of calendars, but professional astronomy is nowadays often considered to be synonymous with astrophysics.[2]
+
+During the 20th century, the field of professional astronomy split into observational and theoretical branches. Observational astronomy is focused on acquiring data from observations of astronomical objects, which is then analyzed using basic principles of physics. Theoretical astronomy is oriented toward the development of computer or analytical models to describe astronomical objects and phenomena. The two fields complement each other, with theoretical astronomy seeking to explain the observational results and observations being used to confirm theoretical results.
+
+Astronomy is one of the few sciences where amateurs can still play an active role, especially in the discovery and observation of transient phenomena. Amateur astronomers have contributed to many important astronomical discoveries.
+
+
+
+
+
+Contents
+
+
+
+	1 Etymology
+	1.1 Use of terms "astronomy" and "astrophysics"
+
+
+
+	2 History
+	2.1 Scientific revolution
+
+
+
+	3 Observational astronomy
+	3.1 Radio astronomy
+	3.2 Infrared astronomy
+	3.3 Optical astronomy
+	3.4 Ultraviolet astronomy
+	3.5 X-ray astronomy
+	3.6 Gamma-ray astronomy
+	3.7 Fields not based on the electromagnetic spectrum
+	3.8 Astrometry and celestial mechanics
+
+
+
+	4 Theoretical astronomy
+	5 Specific subfields
+	5.1 Solar astronomy
+	5.2 Planetary science
+	5.3 Stellar astronomy
+	5.4 Galactic astronomy
+	5.5 Extragalactic astronomy
+	5.6 Cosmology
+
+
+
+	6 Interdisciplinary studies
+	7 Amateur astronomy
+	8 Unsolved problems in astronomy
+	9 See also
+	10 References
+	11 Bibliography
+	12 External links
+
+
+
+
+
+
+Etymology[edit]
+
+
+
+
+
+
+19th century Observatory Sydney, Australia (1872)
+
+
+
+
+
+Astronomy (from the Greek words astron (ἄστ�?ον), "star" and -nomy from nomos (νόμος), "law" or "culture") means "law of the stars" (or "culture of the stars" depending on the translation). Astronomy should not to be confused with astrology, the belief system which claims that human affairs are correlated with the positions of celestial objects.[3] Although the two fields share a common origin they are now entirely distinct.[4]
+
+Use of terms "astronomy" and "astrophysics"[edit]
+
+Generally, either the term "astronomy" or "astrophysics" may be used to refer to this subject.[5][6][7] Based on strict dictionary definitions, "astronomy" refers to "the study of objects and matter outside the Earth's atmosphere and of their physical and chemical properties"[8] and "astrophysics" refers to the branch of astronomy dealing with "the behavior, physical properties, and dynamic processes of celestial objects and phenomena".[9] In some cases, as in the introduction of the introductory textbook The Physical Universe by Frank Shu, "astronomy" may be used to describe the qualitative study of the subject, whereas "astrophysics" is used to describe the physics-oriented version of the subject.[10] However, since most modern astronomical research deals with subjects related to physics, modern astronomy could actually be called astrophysics.[5] Few fields, such as astrometry, are purely astronomy rather than also astrophysics. Various departments in which scientists carry out research on this subject may use "astronomy" and "astrophysics," partly depending on whether the department is historically affiliated with a physics department,[6] and many professional astronomers have physics rather than astronomy degrees.[7] One of the leading scientific journals in the field is the European journal named Astronomy and Astrophysics. The leading American journals are The Astrophysical Journal and The Astronomical Journal.
+
+History[edit]
+
+Main article: History of astronomy
+
+Further information: Archaeoastronomy and List of astronomers
+
+
+
+
+
+
+A celestial map from the 17th century, by the Dutch cartographer Frederik de Wit.
+
+
+
+
+
+In early times, astronomy only comprised the observation and predictions of the motions of objects visible to the naked eye. In some locations, such as Stonehenge, early cultures assembled massive artifacts that possibly had some astronomical purpose. In addition to their ceremonial uses, these observatories could be employed to determine the seasons, an important factor in knowing when to plant crops, as well as in understanding the length of the year.[11]
+
+Before tools such as the telescope were invented, early study of the stars was conducted using the naked eye. As civilizations developed, most notably in Mesopotamia, China, Egypt, Greece, India, and Central America, astronomical observatories were assembled, and ideas on the nature of the universe began to be explored. Most of early astronomy actually consisted of mapping the positions of the stars and planets, a science now referred to as astrometry. From these observations, early ideas about the motions of the planets were formed, and the nature of the Sun, Moon and the Earth in the universe were explored philosophically. The Earth was believed to be the center of the universe with the Sun, the Moon and the stars rotating around it. This is known as the geocentric model of the universe, or the Ptolemaic system, named after Ptolemy.[12]
+
+A particularly important early development was the beginning of mathematical and scientific astronomy, which began among the Babylonians, who laid the foundations for the later astronomical traditions that developed in many other civilizations.[13] The Babylonians discovered that lunar eclipses recurred in a repeating cycle known as a saros.[14]
+
+
+
+
+
+
+Greek equatorial sun dial, Alexandria on the Oxus, present-day Afghanistan 3rd–2nd century BCE.
+
+
+
+
+
+Following the Babylonians, significant advances in astronomy were made in ancient Greece and the Hellenistic world. Greek astronomy is characterized from the start by seeking a rational, physical explanation for celestial phenomena.[15] In the 3rd century BC, Aristarchus of Samos estimated the size and distance of the Moon and Sun, and was the first to propose a heliocentric model of the solar system.[16] In the 2nd century BC, Hipparchus discovered precession, calculated the size and distance of the Moon and invented the earliest known astronomical devices such as the astrolabe.[17] Hipparchus also created a comprehensive catalog of 1020 stars, and most of the constellations of the northern hemisphere derive from Greek astronomy.[18] The Antikythera mechanism (c. 150–80 BC) was an early analog computer designed to calculate the location of the Sun, Moon, and planets for a given date. Technological artifacts of similar complexity did not reappear until the 14th century, when mechanical astronomical clocks appeared in Europe.[19]
+
+During the Middle Ages, astronomy was mostly stagnant in medieval Europe, at least until the 13th century. However, astronomy flourished in the Islamic world and other parts of the world. This led to the emergence of the first astronomical observatories in the Muslim world by the early 9th century.[20][21][22] In 964, the Andromeda Galaxy, the largest galaxy in the Local Group, was discovered by the Persian astronomer Azophi and first described in his Book of Fixed Stars.[23] The SN 1006 supernova, the brightest apparent magnitude stellar event in recorded history, was observed by the Egyptian Arabic astronomer Ali ibn Ridwan and the Chinese astronomers in 1006. Some of the prominent Islamic (mostly Persian and Arab) astronomers who made significant contributions to the science include Al-Battani, Thebit, Azophi, Albumasar, Biruni, Arzachel, Al-Birjandi, and the astronomers of the Maragheh and Samarkand observatories. Astronomers during that time introduced many Arabic names now used for individual stars.[24][25] It is also believed that the ruins at Great Zimbabwe and Timbuktu[26] may have housed an astronomical observatory.[27] Europeans had previously believed that there had been no astronomical observation in pre-colonial Middle Ages sub-Saharan Africa but modern discoveries show otherwise.[28][29][30][31]
+
+Scientific revolution[edit]
+
+
+
+
+
+
+Galileo's sketches and observations of the Moon revealed that the surface was mountainous.
+
+
+
+
+
+During the Renaissance, Nicolaus Copernicus proposed a heliocentric model of the solar system. His work was defended, expanded upon, and corrected by Galileo Galilei and Johannes Kepler. Galileo innovated by using telescopes to enhance his observations.[32]
+
+Kepler was the first to devise a system that described correctly the details of the motion of the planets with the Sun at the center. However, Kepler did not succeed in formulating a theory behind the laws he wrote down.[33] It was left to Newton's invention of celestial dynamics and his law of gravitation to finally explain the motions of the planets. Newton also developed the reflecting telescope.[32]
+
+Further discoveries paralleled the improvements in the size and quality of the telescope. More extensive star catalogues were produced by Lacaille. The astronomer William Herschel made a detailed catalog of nebulosity and clusters, and in 1781 discovered the planet Uranus, the first new planet found.[34] The distance to a star was first announced in 1838 when the parallax of 61 Cygni was measured by Friedrich Bessel.[35]
+
+During the 18–19th centuries, attention to the three body problem by Euler, Clairaut, and D'Alembert led to more accurate predictions about the motions of the Moon and planets. This work was further refined by Lagrange and Laplace, allowing the masses of the planets and moons to be estimated from their perturbations.[36]
+
+Significant advances in astronomy came about with the introduction of new technology, including the spectroscope and photography. Fraunhofer discovered about 600 bands in the spectrum of the Sun in 1814–15, which, in 1859, Kirchhoff ascribed to the presence of different elements. Stars were proven to be similar to the Earth's own Sun, but with a wide range of temperatures, masses, and sizes.[24]
+
+The existence of the Earth's galaxy, the Milky Way, as a separate group of stars, was only proved in the 20th century, along with the existence of "external" galaxies, and soon after, the expansion of the Universe, seen in the recession of most galaxies from us.[37] Modern astronomy has also discovered many exotic objects such as quasars, pulsars, blazars, and radio galaxies, and has used these observations to develop physical theories which describe some of these objects in terms of equally exotic objects such as black holes and neutron stars. Physical cosmology made huge advances during the 20th century, with the model of the Big Bang heavily supported by the evidence provided by astronomy and physics, such as the cosmic microwave background radiation, Hubble's law, and cosmological abundances of elements. Space telescopes have enabled measurements in parts of the electromagnetic spectrum normally blocked or blurred by the atmosphere.
+
+Observational astronomy[edit]
+
+Main article: Observational astronomy
+
+In astronomy, the main source of information about celestial bodies and other objects is visible light or more generally electromagnetic radiation.[38] Observational astronomy may be divided according to the observed region of the electromagnetic spectrum. Some parts of the spectrum can be observed from the Earth's surface, while other parts are only observable from either high altitudes or outside the earth's atmosphere. Specific information on these subfields is given below.
+
+Radio astronomy[edit]
+
+
+
+
+
+
+The Very Large Array in New Mexico, an example of a radio telescope
+
+
+
+
+
+Main article: Radio astronomy
+
+Radio astronomy studies radiation with wavelengths greater than approximately one millimeter.[39] Radio astronomy is different from most other forms of observational astronomy in that the observed radio waves can be treated as waves rather than as discrete photons. Hence, it is relatively easier to measure both the amplitude and phase of radio waves, whereas this is not as easily done at shorter wavelengths.[39]
+
+Although some radio waves are produced by astronomical objects in the form of thermal emission, most of the radio emission that is observed from Earth is the result of synchrotron radiation, which is produced when electrons orbit magnetic fields.[39] Additionally, a number of spectral lines produced by interstellar gas, notably the hydrogen spectral line at 21�cm, are observable at radio wavelengths.[10][39]
+
+A wide variety of objects are observable at radio wavelengths, including supernovae, interstellar gas, pulsars, and active galactic nuclei.[10][39]
+
+Infrared astronomy[edit]
+
+Main article: Infrared astronomy
+
+Infrared astronomy is founded on the detection and analysis of infrared radiation (wavelengths longer than red light). The infrared spectrum is useful for studying objects that are too cold to radiate visible light, such as planets, circumstellar disks or nebulae whose light is blocked by dust. Longer infrared wavelengths can penetrate clouds of dust that block visible light, allowing the observation of young stars in molecular clouds and the cores of galaxies. Observations from the Wide-field Infrared Survey Explorer (WISE) have been particularly effective at unveiling numerous Galactic protostars and their host star clusters.[40][41] With the exception of wavelengths close to visible light, infrared radiation is heavily absorbed by the atmosphere, or masked, as the atmosphere itself produces significant infrared emission. Consequently, infrared observatories have to be located in high, dry places or in space.[42] Some molecules radiate strongly in the infrared. This allows the study the chemistry of space; more specifically it can detect water in comets.[43]
+
+Optical astronomy[edit]
+
+
+
+
+
+
+The Subaru Telescope (left) and Keck Observatory (center) on Mauna Kea, both examples of an observatory that operates at near-infrared and visible wavelengths. The NASA Infrared Telescope Facility (right) is an example of a telescope that operates only at near-infrared wavelengths.
+
+
+
+
+
+Main article: Optical astronomy
+
+Historically, optical astronomy, also called visible light astronomy, is the oldest form of astronomy.[44] Optical images of observations were originally drawn by hand. In the late 19th century and most of the 20th century, images were made using photographic equipment. Modern images are made using digital detectors, particularly detectors using charge-coupled devices (CCDs) and recorded on modern medium. Although visible light itself extends from approximately 4000 Å to 7000 Å (400 nm to 700�nm),[44] that same equipment can be used to observe some near-ultraviolet and near-infrared radiation.
+
+Ultraviolet astronomy[edit]
+
+Main article: Ultraviolet astronomy
+
+Ultraviolet astronomy refers to observations at ultraviolet wavelengths between approximately 100 and 3200�Å (10 to 320�nm).[39] Light at these wavelengths is absorbed by the Earth's atmosphere, so observations at these wavelengths must be performed from the upper atmosphere or from space. Ultraviolet astronomy is best suited to the study of thermal radiation and spectral emission lines from hot blue stars (OB stars) that are very bright in this wave band. This includes the blue stars in other galaxies, which have been the targets of several ultraviolet surveys. Other objects commonly observed in ultraviolet light include planetary nebulae, supernova remnants, and active galactic nuclei.[39] However, as ultraviolet light is easily absorbed by interstellar dust, an appropriate adjustment of ultraviolet measurements is necessary.[39]
+
+X-ray astronomy[edit]
+
+Main article: X-ray astronomy
+
+X-ray astronomy is the study of astronomical objects at X-ray wavelengths. Typically, X-ray radiation is produced by synchrotron emission (the result of electrons orbiting magnetic field lines), thermal emission from thin gases above 107 (10�million) kelvins, and thermal emission from thick gases above 107 Kelvin.[39] Since X-rays are absorbed by the Earth's atmosphere, all X-ray observations must be performed from high-altitude balloons, rockets, or spacecraft. Notable X-ray sources include X-ray binaries, pulsars, supernova remnants, elliptical galaxies, clusters of galaxies, and active galactic nuclei.[39]
+
+X-rays were first observed and documented in 1895 by Wilhelm Conrad Röntgen, a German scientist who found them when experimenting with vacuum tubes. Through a series of experiments, Röntgen was able to discover the beginning elements of radiation. The "X", in fact, holds its own significance, as it represents Röntgen's inability to identify exactly the type of radiation.
+
+Gamma-ray astronomy[edit]
+
+Main article: Gamma ray astronomy
+
+Gamma ray astronomy is the study of astronomical objects at the shortest wavelengths of the electromagnetic spectrum. Gamma rays may be observed directly by satellites such as the Compton Gamma Ray Observatory or by specialized telescopes called atmospheric Cherenkov telescopes.[39] The Cherenkov telescopes do not actually detect the gamma rays directly but instead detect the flashes of visible light produced when gamma rays are absorbed by the Earth's atmosphere.[45]
+
+Most gamma-ray emitting sources are actually gamma-ray bursts, objects which only produce gamma radiation for a few milliseconds to thousands of seconds before fading away. Only 10% of gamma-ray sources are non-transient sources. These steady gamma-ray emitters include pulsars, neutron stars, and black hole candidates such as active galactic nuclei.[39]
+
+Fields not based on the electromagnetic spectrum[edit]
+
+In addition to electromagnetic radiation, a few other events originating from great distances may be observed from the Earth.
+
+In neutrino astronomy, astronomers use heavily shielded underground facilities such as SAGE, GALLEX, and Kamioka II/III for the detection of neutrinos. The vast majority of the neutrinos streaming through the earth originate from the Sun, but 24 neutrinos were also detected from supernova 1987A.[39] Cosmic rays, which consist of very high energy particles that can decay or be absorbed when they enter the Earth's atmosphere, result in a cascade of particles which can be detected by current observatories.[46] Additionally, some future neutrino detectors may also be sensitive to the particles produced when cosmic rays hit the Earth's atmosphere.[39]
+
+Gravitational wave astronomy is an emerging new field of astronomy which aims to use gravitational wave detectors to collect observational data about compact objects. A few observatories have been constructed, such as the Laser Interferometer Gravitational Observatory LIGO, but gravitational waves are extremely difficult to detect.[47]
+
+Combining observations made using electromagnetic radiation, neutrinos or gravitational waves with those made using a different means, which shall give complementary information, is known as multi-messenger astronomy.[48]
+
+Astrometry and celestial mechanics[edit]
+
+Main articles: Astrometry and Celestial mechanics
+
+One of the oldest fields in astronomy, and in all of science, is the measurement of the positions of celestial objects. Historically, accurate knowledge of the positions of the Sun, Moon, planets and stars has been essential in celestial navigation (the use of celestial objects to guide navigation) and in the making of calendars.
+
+Careful measurement of the positions of the planets has led to a solid understanding of gravitational perturbations, and an ability to determine past and future positions of the planets with great accuracy, a field known as celestial mechanics. More recently the tracking of near-Earth objects will allow for predictions of close encounters, and potential collisions, with the Earth.[49]
+
+The measurement of stellar parallax of nearby stars provides a fundamental baseline in the cosmic distance ladder that is used to measure the scale of the universe. Parallax measurements of nearby stars provide an absolute baseline for the properties of more distant stars, as their properties can be compared. Measurements of radial velocity and proper motion plot the movement of these systems through the Milky Way galaxy. Astrometric results are the basis used to calculate the distribution of dark matter in the galaxy.[50]
+
+During the 1990s, the measurement of the stellar wobble of nearby stars was used to detect large extrasolar planets orbiting nearby stars.[51]
+
+Theoretical astronomy[edit]
+
+	Nucleosynthesis
+	
+	
+	Stellar nucleosynthesis
+	Big Bang nucleosynthesis
+	Supernova nucleosynthesis
+	Cosmic ray spallation
+
+
+
+	Related topics
+	
+	Astrophysics
+	Nuclear fusion
+	R-process
+	S-process
+
+
+
+	Nuclear fission
+
+
+
+	
+
+	v
+	t
+	e
+
+
+
+
+
+
+
+Main article: Theoretical astronomy
+
+Theoretical astronomers use several tools including analytical models (for example, polytropes to approximate the behaviors of a star) and computational numerical simulations. Each has some advantages. Analytical models of a process are generally better for giving insight into the heart of what is going on. Numerical models reveal the existence of phenomena and effects otherwise unobserved.[52][53]
+
+Theorists in astronomy endeavor to create theoretical models and from the results predict observational consequences of those models. The observation of a phenomena predicted by a model allows astronomers to select between several alternate or conflicting models.
+
+Theorists also try to generate or modify models to take into account new data. In the case of an inconsistency, the general tendency is to try to make minimal modifications to the model so that it produces results that fit the data. In some cases, a large amount of inconsistent data over time may lead to total abandonment of a model.
+
+Topics studied by theoretical astronomers include: stellar dynamics and evolution; galaxy formation; large-scale structure of matter in the Universe; origin of cosmic rays; general relativity and physical cosmology, including string cosmology and astroparticle physics. Astrophysical relativity serves as a tool to gauge the properties of large scale structures for which gravitation plays a significant role in physical phenomena investigated and as the basis for black hole (astro)physics and the study of gravitational waves.
+
+Some widely accepted and studied theories and models in astronomy, now included in the Lambda-CDM model are the Big Bang, Cosmic inflation, dark matter, and fundamental theories of physics.
+
+A few examples of this process:
+
+	Physical process	Experimental tool	Theoretical model	Explains/predicts
+	Gravitation	Radio telescopes	Self-gravitating system	Emergence of a star system
+	Nuclear fusion	Spectroscopy	Stellar evolution	How the stars shine and how metals formed
+	The Big Bang	Hubble Space Telescope, COBE	Expanding universe	Age of the Universe
+	Quantum fluctuations		Cosmic inflation	Flatness problem
+	Gravitational collapse	X-ray astronomy	General relativity	Black holes at the center of Andromeda galaxy
+	CNO cycle in stars			The dominant source of energy for massive star.
+
+
+Dark matter and dark energy are the current leading topics in astronomy,[54] as their discovery and controversy originated during the study of the galaxies.
+
+Specific subfields[edit]
+
+Solar astronomy[edit]
+
+
+
+
+
+
+An ultraviolet image of the Sun's active photosphere as viewed by the TRACE space telescope. NASA photo
+
+
+
+
+
+
+
+
+
+
+Solar observatory Lomnický štít (Slovakia) built in 1962.
+
+
+
+
+
+Main article: Sun
+
+See also: Solar telescope
+
+At a distance of about eight light-minutes, the most frequently studied star is the Sun, a typical main-sequence dwarf star of stellar class G2 V, and about 4.6 billion years (Gyr) old. The Sun is not considered a variable star, but it does undergo periodic changes in activity known as the sunspot cycle. This is an 11-year fluctuation in sunspot numbers. Sunspots are regions of lower-than- average temperatures that are associated with intense magnetic activity.[55]
+
+The Sun has steadily increased in luminosity over the course of its life, increasing by 40% since it first became a main-sequence star. The Sun has also undergone periodic changes in luminosity that can have a significant impact on the Earth.[56] The Maunder minimum, for example, is believed to have caused the Little Ice Age phenomenon during the Middle Ages.[57]
+
+The visible outer surface of the Sun is called the photosphere. Above this layer is a thin region known as the chromosphere. This is surrounded by a transition region of rapidly increasing temperatures, and finally by the super-heated corona.
+
+At the center of the Sun is the core region, a volume of sufficient temperature and pressure for nuclear fusion to occur. Above the core is the radiation zone, where the plasma conveys the energy flux by means of radiation. Above that are the outer layers that form a convection zone where the gas material transports energy primarily through physical displacement of the gas. It is believed that this convection zone creates the magnetic activity that generates sun spots.[55]
+
+A solar wind of plasma particles constantly streams outward from the Sun until, at the outermost limit of the solar system, it reaches the heliopause. This solar wind interacts with the magnetosphere of the Earth to create the Van Allen radiation belts about the Earth, as well as the aurora where the lines of the Earth's magnetic field descend into the atmosphere.[58]
+
+Planetary science[edit]
+
+Main articles: Planetary science and Planetary geology
+
+Planetary science is the study of the assemblage of planets, moons, dwarf planets, comets, asteroids, and other bodies orbiting the Sun, as well as extrasolar planets. The Solar System has been relatively well-studied, initially through telescopes and then later by spacecraft. This has provided a good overall understanding of the formation and evolution of this planetary system, although many new discoveries are still being made.[59]
+
+
+
+
+
+
+The black spot at the top is a dust devil climbing a crater wall on Mars. This moving, swirling column of Martian atmosphere (comparable to a terrestrial tornado) created the long, dark streak. NASA image.
+
+
+
+
+
+The Solar System is subdivided into the inner planets, the asteroid belt, and the outer planets. The inner terrestrial planets consist of Mercury, Venus, Earth, and Mars. The outer gas giant planets are Jupiter, Saturn, Uranus, and Neptune.[60] Beyond Neptune lies the Kuiper Belt, and finally the Oort Cloud, which may extend as far as a light-year.
+
+The planets were formed in the protoplanetary disk that surrounded the early Sun. Through a process that included gravitational attraction, collision, and accretion, the disk formed clumps of matter that, with time, became protoplanets. The radiation pressure of the solar wind then expelled most of the unaccreted matter, and only those planets with sufficient mass retained their gaseous atmosphere. The planets continued to sweep up, or eject, the remaining matter during a period of intense bombardment, evidenced by the many impact craters on the Moon. During this period, some of the protoplanets may have collided, the leading hypothesis for how the Moon was formed.[61]
+
+Once a planet reaches sufficient mass, the materials of different densities segregate within, during planetary differentiation. This process can form a stony or metallic core, surrounded by a mantle and an outer surface. The core may include solid and liquid regions, and some planetary cores generate their own magnetic field, which can protect their atmospheres from solar wind stripping.[62]
+
+A planet or moon's interior heat is produced from the collisions that created the body, radioactive materials (e.g. uranium, thorium, and 26Al), or tidal heating. Some planets and moons accumulate enough heat to drive geologic processes such as volcanism and tectonics. Those that accumulate or retain an atmosphere can also undergo surface erosion from wind or water. Smaller bodies, without tidal heating, cool more quickly; and their geological activity ceases with the exception of impact cratering.[63]
+
+Stellar astronomy[edit]
+
+
+
+
+
+
+The Ant planetary nebula. Ejecting gas from the dying central star shows symmetrical patterns unlike the chaotic patterns of ordinary explosions.
+
+
+
+
+
+Main article: Star
+
+The study of stars and stellar evolution is fundamental to our understanding of the universe. The astrophysics of stars has been determined through observation and theoretical understanding; and from computer simulations of the interior.[64] Star formation occurs in dense regions of dust and gas, known as giant molecular clouds. When destabilized, cloud fragments can collapse under the influence of gravity, to form a protostar. A sufficiently dense, and hot, core region will trigger nuclear fusion, thus creating a main-sequence star.[65]
+
+Almost all elements heavier than hydrogen and helium were created inside the cores of stars.[64]
+
+The characteristics of the resulting star depend primarily upon its starting mass. The more massive the star, the greater its luminosity, and the more rapidly it expends the hydrogen fuel in its core. Over time, this hydrogen fuel is completely converted into helium, and the star begins to evolve. The fusion of helium requires a higher core temperature, so that the star both expands in size, and increases in core density. The resulting red giant enjoys a brief life span, before the helium fuel is in turn consumed. Very massive stars can also undergo a series of decreasing evolutionary phases, as they fuse increasingly heavier elements.[66]
+
+The final fate of the star depends on its mass, with stars of mass greater than about eight times the Sun becoming core collapse supernovae;[67] while smaller stars form a white dwarf as it ejects matter that forms a planetary nebulae.[68] The remnant of a supernova is a dense neutron star, or, if the stellar mass was at least three times that of the Sun, a black hole.[69] Close binary stars can follow more complex evolutionary paths, such as mass transfer onto a white dwarf companion that can potentially cause a supernova.[70] Planetary nebulae and supernovae are necessary for the distribution of metals to the interstellar medium; without them, all new stars (and their planetary systems) would be formed from hydrogen and helium alone.[71]
+
+See also: Solar astronomy
+
+Galactic astronomy[edit]
+
+
+
+
+
+
+Observed structure of the Milky Way's spiral arms
+
+
+
+
+
+Main article: Galactic astronomy
+
+Our solar system orbits within the Milky Way, a barred spiral galaxy that is a prominent member of the Local Group of galaxies. It is a rotating mass of gas, dust, stars and other objects, held together by mutual gravitational attraction. As the Earth is located within the dusty outer arms, there are large portions of the Milky Way that are obscured from view.
+
+In the center of the Milky Way is the core, a bar-shaped bulge with what is believed to be a supermassive black hole at the center. This is surrounded by four primary arms that spiral from the core. This is a region of active star formation that contains many younger, population I stars. The disk is surrounded by a spheroid halo of older, population II stars, as well as relatively dense concentrations of stars known as globular clusters.[72]
+
+Between the stars lies the interstellar medium, a region of sparse matter. In the densest regions, molecular clouds of molecular hydrogen and other elements create star-forming regions. These begin as a compact pre-stellar core or dark nebulae, which concentrate and collapse (in volumes determined by the Jeans length) to form compact protostars.[65]
+
+As the more massive stars appear, they transform the cloud into an H II region (ionized atomic hydrogen) of glowing gas and plasma. The stellar wind and supernova explosions from these stars eventually cause the cloud to disperse, often leaving behind one or more young open clusters of stars. These clusters gradually disperse, and the stars join the population of the Milky Way.[73]
+
+Kinematic studies of matter in the Milky Way and other galaxies have demonstrated that there is more mass than can be accounted for by visible matter. A dark matter halo appears to dominate the mass, although the nature of this dark matter remains undetermined.[74]
+
+Extragalactic astronomy[edit]
+
+
+
+
+
+
+This image shows several blue, loop-shaped objects that are multiple images of the same galaxy, duplicated by the gravitational lens effect of the cluster of yellow galaxies near the middle of the photograph. The lens is produced by the cluster's gravitational field that bends light to magnify and distort the image of a more distant object.
+
+
+
+
+
+Main article: Extragalactic astronomy
+
+The study of objects outside our galaxy is a branch of astronomy concerned with the formation and evolution of Galaxies; their morphology (description) and classification; and the observation of active galaxies, and at a larger scale, the groups and clusters of galaxies. Finally, the latter is important for the understanding of the large-scale structure of the cosmos.
+
+Most galaxies are organized into distinct shapes that allow for classification schemes. They are commonly divided into spiral, elliptical and Irregular galaxies.[75]
+
+As the name suggests, an elliptical galaxy has the cross-sectional shape of an ellipse. The stars move along random orbits with no preferred direction. These galaxies contain little or no interstellar dust; few star-forming regions; and generally older stars. Elliptical galaxies are more commonly found at the core of galactic clusters, and may have been formed through mergers of large galaxies.
+
+A spiral galaxy is organized into a flat, rotating disk, usually with a prominent bulge or bar at the center, and trailing bright arms that spiral outward. The arms are dusty regions of star formation where massive young stars produce a blue tint. Spiral galaxies are typically surrounded by a halo of older stars. Both the Milky Way and our nearest galaxy neighbor, the Andromeda Galaxy, are spiral galaxies.
+
+Irregular galaxies are chaotic in appearance, and are neither spiral nor elliptical. About a quarter of all galaxies are irregular, and the peculiar shapes of such galaxies may be the result of gravitational interaction.
+
+An active galaxy is a formation that emitts a significant amount of its energy from a source other than its stars, dust and gas. It is powered by a compact region at the core, thought to be a super-massive black hole that is emitting radiation from in-falling material.
+
+A radio galaxy is an active galaxy that is very luminous in the radio portion of the spectrum, and is emitting immense plumes or lobes of gas. Active galaxies that emit shorter frequency, high-energy radiation include Seyfert galaxies, Quasars, and Blazars. Quasars are believed to be the most consistently luminous objects in the known universe.[76]
+
+The large-scale structure of the cosmos is represented by groups and clusters of galaxies. This structure is organized into a hierarchy of groupings, with the largest being the superclusters. The collective matter is formed into filaments and walls, leaving large voids between.[77]
+
+Cosmology[edit]
+
+Main article: Physical cosmology
+
+
+
+
+
+
+Hubble Extreme Deep Field.
+
+
+
+
+
+Cosmology (from the Greek κόσμος (kosmos) "world, universe" and λόγος (logos) "word, study" or literally "logic") could be considered the study of the universe as a whole.
+
+Observations of the large-scale structure of the universe, a branch known as physical cosmology, have provided a deep understanding of the formation and evolution of the cosmos. Fundamental to modern cosmology is the well-accepted theory of the big bang, wherein our universe began at a single point in time, and thereafter expanded over the course of 13.8 billion years[78] to its present condition.[79] The concept of the big bang can be traced back to the discovery of the microwave background radiation in 1965.[79]
+
+In the course of this expansion, the universe underwent several evolutionary stages. In the very early moments, it is theorized that the universe experienced a very rapid cosmic inflation, which homogenized the starting conditions. Thereafter, nucleosynthesis produced the elemental abundance of the early universe.[79] (See also nucleocosmochronology.)
+
+When the first neutral atoms formed from a sea of primordial ions, space became transparent to radiation, releasing the energy viewed today as the microwave background radiation. The expanding universe then underwent a Dark Age due to the lack of stellar energy sources.[80]
+
+A hierarchical structure of matter began to form from minute variations in the mass density of space. Matter accumulated in the densest regions, forming clouds of gas and the earliest stars, the Population III stars. These massive stars triggered the reionization process and are believed to have created many of the heavy elements in the early universe, which, through nuclear decay, create lighter elements, allowing the cycle of nucleosynthesis to continue longer.[81]
+
+Gravitational aggregations clustered into filaments, leaving voids in the gaps. Gradually, organizations of gas and dust merged to form the first primitive galaxies. Over time, these pulled in more matter, and were often organized into groups and clusters of galaxies, then into larger-scale superclusters.[82]
+
+Fundamental to the structure of the universe is the existence of dark matter and dark energy. These are now thought to be its dominant components, forming 96% of the mass of the universe. For this reason, much effort is expended in trying to understand the physics of these components.[83]
+
+Interdisciplinary studies[edit]
+
+Astronomy and astrophysics have developed significant interdisciplinary links with other major scientific fields. Archaeoastronomy is the study of ancient or traditional astronomies in their cultural context, utilizing archaeological and anthropological evidence. Astrobiology is the study of the advent and evolution of biological systems in the universe, with particular emphasis on the possibility of non-terrestrial life. Astrostatistics is the application of statistics to astrophysics to the analysis of vast amount of observational astrophysical data.
+
+The study of chemicals found in space, including their formation, interaction and destruction, is called astrochemistry. These substances are usually found in molecular clouds, although they may also appear in low temperature stars, brown dwarfs and planets. Cosmochemistry is the study of the chemicals found within the Solar System, including the origins of the elements and variations in the isotope ratios. Both of these fields represent an overlap of the disciplines of astronomy and chemistry. As "forensic astronomy", finally, methods from astronomy have been used to solve problems of law and history.
+
+Amateur astronomy[edit]
+
+
+
+
+
+
+Amateur astronomers can build their own equipment, and can hold star parties and gatherings, such as Stellafane.
+
+
+
+
+
+Main article: Amateur astronomy
+
+Astronomy is one of the sciences to which amateurs can contribute the most.[84]
+
+Collectively, amateur astronomers observe a variety of celestial objects and phenomena sometimes with equipment that they build themselves. Common targets of amateur astronomers include the Moon, planets, stars, comets, meteor showers, and a variety of deep-sky objects such as star clusters, galaxies, and nebulae. Astronomy clubs are located throughout the world and many have programs to help their members set up and complete observational programs including those to observe all the objects in the Messier (110 objects) or Herschal 400 catalogues of points of interest in the night sky. One branch of amateur astronomy, amateur astrophotography, involves the taking of photos of the night sky. Many amateurs like to specialize in the observation of particular objects, types of objects, or types of events which interest them.[85][86]
+
+Most amateurs work at visible wavelengths, but a small minority experiment with wavelengths outside the visible spectrum. This includes the use of infrared filters on conventional telescopes, and also the use of radio telescopes. The pioneer of amateur radio astronomy was Karl Jansky, who started observing the sky at radio wavelengths in the 1930s. A number of amateur astronomers use either homemade telescopes or use radio telescopes which were originally built for astronomy research but which are now available to amateurs (e.g. the One-Mile Telescope).[87][88]
+
+Amateur astronomers continue to make scientific contributions to the field of astronomy. Indeed, it is one of the few scientific disciplines where amateurs can still make significant contributions. Amateurs can make occultation measurements that are used to refine the orbits of minor planets. They can also discover comets, and perform regular observations of variable stars. There are hundreds of local astronomy clubs throughout the world and many help their members set up and complete observational programs such as ones to observe all the Messier or Hershel catalogue objects.Improvements in digital technology have allowed amateurs to make impressive advances in the field of astrophotography.[89][90][91]
+
+Unsolved problems in astronomy[edit]
+
+See also: Unsolved problems in physics
+
+Although the scientific discipline of astronomy has made tremendous strides in understanding the nature of the universe and its contents, there remain some important unanswered questions. Answers to these may require the construction of new ground- and space-based instruments, and possibly new developments in theoretical and experimental physics.
+
+	What is the origin of the stellar mass spectrum? That is, why do astronomers observe the same distribution of stellar masses�– the initial mass function�– apparently regardless of the initial conditions?[92] A deeper understanding of the formation of stars and planets is needed.
+	Is there other life in the Universe? Especially, is there other intelligent life? If so, what is the explanation for the Fermi paradox? The existence of life elsewhere has important scientific and philosophical implications.[93][94] Is the Solar System normal or atypical?
+	What caused the Universe to form? Is the premise of the Fine-tuned universe hypothesis correct? If so, could this be the result of cosmological natural selection? What caused the cosmic inflation that produced our homogeneous universe? Why is there a baryon asymmetry?
+	What is the nature of dark matter and dark energy? These dominate the evolution and fate of the cosmos, yet their true nature remains unknown.[95] What will be the ultimate fate of the universe?[96]
+	How did the first galaxies form? How did supermassive black holes form?
+	What is creating the ultra-high-energy cosmic rays?
+
+
+See also[edit]
+
+Main article: Outline of astronomy
+
+	
+	Airmass
+	Astronomer
+	Astronomical Acronyms
+	Astronomy Camp
+	Astrophysics Data System
+	Category:Ancient astronomy
+	Category:Astronomical observatories
+	Category:Astronomy organizations
+	Category:Astronomy timelines
+	Constellation
+	Cosmogony
+	Cosmology
+
+
+	
+	Extragalactic Distance Scale
+	Glossary of astronomy terms
+	International Year of Astronomy
+	List of astronomy acronyms
+	List of Russian astronomers and astrophysicists
+	Solar System
+	Space exploration
+	Space science
+	Stellar collisions
+	Star
+	Telescope
+	Universe: The Infinite Frontier (television series)
+
+
+	
+
+		Astronomy portal
+		Space portal
+
+
+
+
+		
+	Book: Astronomy
+
+
+
+
+
+
+
+
+References[edit]
+
+
+	^ Unsöld; Baschek (2001). "Introduction". p.�1.�
+	^ Unsöld; Baschek (2001). "I. Classical Astronomy and the Solar System". pp.�6–9.�
+	^ Losev A., (2012), 'Astronomy' or 'astrology': a brief history of an apparent confusion, Journal of Astronomical History and Heritage, Vol. 15, No. 1, p. 42-46 .
+	^ Unsöld, Albrecht; Baschek, Bodo; Brewer, W.D. (translator) (2001). The New Cosmos: An Introduction to Astronomy and Astrophysics. Berlin, New York: Springer. ISBN�3-540-67877-8.� Cite uses deprecated parameters (help)
+	^ a b Scharringhausen, B. "Curious About Astronomy: What is the difference between astronomy and astrophysics?". Archived from the original on 9 June 2007. Retrieved 20 June 2007.�
+	^ a b Odenwald, S. "Archive of Astronomy Questions and Answers: What is the difference between astronomy and astrophysics?". Archived from the original on 8 July 2007. Retrieved 20 June 2007.�
+	^ a b "Penn State Erie-School of Science-Astronomy and Astrophysics". Archived from the original on 21 September 2012. Retrieved 20 June 2007.�
+	^ "Merriam-Webster Online". Results for "astronomy". Archived from the original on 17 June 2007. Retrieved 20 June 2007.�
+	^ "Merriam-Webster Online". Results for "astrophysics". Archived from the original on 21 September 2012. Retrieved 20 June 2007.�
+	^ a b c Shu, F. H. (1982). The Physical Universe. Mill Valley, California: University Science Books. ISBN�0-935702-05-9.�
+	^ Forbes, 1909
+	^ DeWitt, Richard (2010). "The Ptolemaic System". Worldviews: An Introduction to the History and Philosophy of Science. Chichester, England: Wiley. p.�113. ISBN�1-4051-9563-0.�
+	^ Aaboe, A. (1974). "Scientific Astronomy in Antiquity". Philosophical Transactions of the Royal Society 276 (1257): 21–42. Bibcode:1974RSPTA.276...21A. doi:10.1098/rsta.1974.0007. JSTOR�74272.�
+	^ "Eclipses and the Saros". NASA. Archived from the original on 30 October 2007. Retrieved 28 October 2007.�
+	^ Krafft, Fritz (2009). "Astronomy". In Cancik, Hubert; Schneider, Helmuth. Brill's New Pauly.�
+	^ Berrgren, J.L.; Nathan Sidoli (May 2007). "Aristarchus’s On the Sizes and Distances of the Sun and the Moon: Greek and Arabic Texts". Archive for History of Exact Sciences 61 (3): 213–254. doi:10.1007/s00407-006-0118-4.�
+	^ "Hipparchus of Rhodes". School of Mathematics and Statistics, University of St Andrews, Scotland. Archived from the original on 23 October 2007. Retrieved 28 October 2007.�
+	^ Thurston, H., Early Astronomy. Springer, 1996. ISBN 0-387-94822-8 p. 2
+	^ Marchant, Jo (2006). "In search of lost time". Nature 444 (7119): 534–8. Bibcode:2006Natur.444..534M. doi:10.1038/444534a. PMID�17136067.�
+	^ Kennedy, Edward S. (1962). "Review: The Observatory in Islam and Its Place in the General History of the Observatory by Aydin Sayili". Isis 53 (2): 237–239. doi:10.1086/349558.�
+	^ Micheau, Francoise. "The Scientific Institutions in the Medieval Near East". pp.�992–3.�, in (Rashed & Morelon 1996, pp.�985–1007)
+	^ Nas, Peter J (1993). Urban Symbolism. Brill Academic Publishers. p.�350. ISBN�90-04-09855-0.�
+	^ Kepple, George Robert; Glen W. Sanner (1998). The Night Sky Observer's Guide, Volume 1. Willmann-Bell, Inc. p.�18. ISBN�0-943396-58-1.�
+	^ a b Berry, Arthur (1961). A Short History of Astronomy From Earliest Times Through the Nineteenth Century. New York: Dover Publications, Inc. ISBN�0-486-20210-0.�
+	^ Hoskin, Michael, ed. (1999). The Cambridge Concise History of Astronomy. Cambridge University Press. ISBN�0-521-57600-8.�
+	^ McKissack, Pat; McKissack, Frederick (1995). The royal kingdoms of Ghana, Mali, and Songhay: life in medieval Africa. H. Holt. ISBN�978-0-8050-4259-7.�
+	^ Clark, Stuart; Carrington, Damian (2002). "Eclipse brings claim of medieval African observatory". New Scientist. Archived from the original on 11 September 2012. Retrieved 3 February 2010.�
+	^ "Cosmic Africa explores Africa's astronomy". Science in Africa. Archived from the original on 21 September 2012. Retrieved 3 February 2002.�
+	^ Holbrook, Jarita C.; Medupe, R. Thebe; Urama, Johnson O. (2008). African Cultural Astronomy. Springer. ISBN�978-1-4020-6638-2.�
+	^ "Africans studied astronomy in medieval times". The Royal Society. 30 January 2006. Archived from the original on 9 June 2008. Retrieved 3 February 2010.�
+	^ Stenger, Richard "Star sheds light on African 'Stonehenge'". CNN. 5 December 2002. Archived from the original on 12 July 2012.�. CNN. 5 December 2002. Retrieved on 30 December 2011.
+	^ a b Forbes, 1909, pp. 58–64
+	^ Forbes, 1909, pp. 49–58
+	^ Forbes, 1909, pp. 79–81
+	^ Forbes, 1909, pp. 147–150
+	^ Forbes, 1909, pp. 74–76
+	^ Belkora, Leila (2003). Minding the heavens: the story of our discovery of the Milky Way. CRC Press. pp.�1–14. ISBN�978-0-7503-0730-7.�
+	^ "Electromagnetic Spectrum". NASA. Archived from the original on 5 September 2006. Retrieved 8 September 2006.�
+	^ a b c d e f g h i j k l m n Cox, A. N., ed. (2000). Allen's Astrophysical Quantities. New York: Springer-Verlag. p.�124. ISBN�0-387-98746-0.�
+	^ "Wide-field Infrared Survey Explorer Mission". NASA.�
+	^ Majaess, D. (2013). Discovering protostars and their host clusters via WISE, ApSS, 344, 1 (VizieR catalog)
+	^ Staff (11 September 2003). "Why infrared astronomy is a hot topic". ESA. Archived from the original on 30 July 2012. Retrieved 11 August 2008.�
+	^ "Infrared Spectroscopy – An Overview". NASA/IPAC. Archived from the original on 5 August 2012. Retrieved 11 August 2008.�
+	^ a b Moore, P. (1997). Philip's Atlas of the Universe. Great Britain: George Philis Limited. ISBN�0-540-07465-9.�
+	^ Penston, Margaret J. (14 August 2002). "The electromagnetic spectrum". Particle Physics and Astronomy Research Council. Archived from the original on 8 September 2012. Retrieved 17 August 2006.�
+	^ Gaisser, Thomas K. (1990). Cosmic Rays and Particle Physics. Cambridge University Press. pp.�1–2. ISBN�0-521-33931-6.�
+	^ Tammann, G. A.; Thielemann, F. K.; Trautmann, D. (2003). "Opening new windows in observing the Universe". Europhysics News. Archived from the original on 6 September 2012. Retrieved 3 February 2010.�
+	^ Xing, Zhizhong; Zhou, Shun (2011). Neutrinos in Particle Physics, Astronomy and Cosmology. Springer. p.�313. ISBN�3642175600.�, Extract of page 313
+	^ Calvert, James B. (28 March 2003). "Celestial Mechanics". University of Denver. Archived from the original on 7 September 2006. Retrieved 21 August 2006.�
+	^ "Hall of Precision Astrometry". University of Virginia Department of Astronomy. Archived from the original on 26 August 2006. Retrieved 10 August 2006.�
+	^ Wolszczan, A.; Frail, D. A. (1992). "A planetary system around the millisecond pulsar PSR1257+12". Nature 355 (6356): 145–147. Bibcode:1992Natur.355..145W. doi:10.1038/355145a0.�
+	^ Roth, H. (1932). "A Slowly Contracting or Expanding Fluid Sphere and its Stability". Physical Review 39 (3): 525–529. Bibcode:1932PhRv...39..525R. doi:10.1103/PhysRev.39.525.�
+	^ Eddington, A.S. (1926). Internal Constitution of the Stars. Cambridge University Press. ISBN�978-0-521-33708-3.�
+	^ "Dark matter". NASA. 2010. Archived from the original on 30 October 2009. Retrieved 2 November 2009. "third paragraph, "There is currently much ongoing research by scientists attempting to discover exactly what this dark matter is""�
+	^ a b Johansson, Sverker (27 July 2003). "The Solar FAQ". Talk.Origins Archive. Archived from the original on 7 September 2006. Retrieved 11 August 2006.�
+	^ Lerner, K. Lee; Lerner, Brenda Wilmoth. (2006). "Environmental issues�: essential primary sources.". Thomson Gale. Archived from the original on 10 July 2012. Retrieved 11 September 2006.�
+	^ Pogge, Richard W. (1997). "The Once & Future Sun" (lecture notes). New Vistas in Astronomy. Archived from the original on 24 May 2012. Retrieved 3 February 2010.�
+	^ Stern, D. P.; Peredo, M. (28 September 2004). "The Exploration of the Earth's Magnetosphere". NASA. Archived from the original on 24 August 2006. Retrieved 22 August 2006.�
+	^ Bell III, J. F.; Campbell, B. A.; Robinson, M. S. (2004). Remote Sensing for the Earth Sciences: Manual of Remote Sensing (3rd ed.). John Wiley & Sons. Archived from the original on 11 August 2006. Retrieved 23 August 2006.�
+	^ Grayzeck, E.; Williams, D. R. (11 May 2006). "Lunar and Planetary Science". NASA. Archived from the original on 20 August 2006. Retrieved 21 August 2006.�
+	^ Montmerle, Thierry; Augereau, Jean-Charles; Chaussidon, Marc et al. (2006). "Solar System Formation and Early Evolution: the First 100 Million Years". Earth, Moon, and Planets (Spinger) 98 (1–4): 39–95. Bibcode:2006EM&P...98...39M. doi:10.1007/s11038-006-9087-5.�
+	^ Montmerle, 2006, pp. 87–90
+	^ Beatty, J.K.; Petersen, C.C.; Chaikin, A., ed. (1999). The New Solar System. Cambridge press. p.�70edition = 4th. ISBN�0-521-64587-5.�
+	^ a b Harpaz, 1994, pp. 7–18
+	^ a b Smith, Michael David (2004). "Cloud formation, Evolution and Destruction". The Origin of Stars. Imperial College Press. pp.�53–86. ISBN�1-86094-501-5.�
+	^ Harpaz, 1994
+	^ Harpaz, 1994, pp. 173–178
+	^ Harpaz, 1994, pp. 111–118
+	^ Audouze, Jean; Israel, Guy, ed. (1994). The Cambridge Atlas of Astronomy (3rd ed.). Cambridge University Press. ISBN�0-521-43438-6.�
+	^ Harpaz, 1994, pp. 189–210
+	^ Harpaz, 1994, pp. 245–256
+	^ Ott, Thomas (24 August 2006). "The Galactic Centre". Max-Planck-Institut für extraterrestrische Physik. Archived from the original on 4 September 2006. Retrieved 8 September 2006.�
+	^ Smith, Michael David (2004). "Massive stars". The Origin of Stars. Imperial College Press. pp.�185–199. ISBN�1-86094-501-5.�
+	^ Van den Bergh, Sidney (1999). "The Early History of Dark Matter". Publications of the Astronomy Society of the Pacific 111 (760): 657–660. arXiv:astro-ph/9904251. Bibcode:1999PASP..111..657V. doi:10.1086/316369.�
+	^ Keel, Bill (1 August 2006). "Galaxy Classification". University of Alabama. Archived from the original on 1 September 2006. Retrieved 8 September 2006.�
+	^ "Active Galaxies and Quasars". NASA. Archived from the original on 31 August 2006. Retrieved 8 September 2006.�
+	^ Zeilik, Michael (2002). Astronomy: The Evolving Universe (8th ed.). Wiley. ISBN�0-521-80090-0.�
+	^ "Cosmic Detectives". The European Space Agency (ESA). 2013-04-02. Retrieved 2013-04-15.�
+	^ a b c Dodelson, Scott (2003). Modern cosmology. Academic Press. pp.�1–22. ISBN�978-0-12-219141-1.�
+	^ Hinshaw, Gary (13 July 2006). "Cosmology 101: The Study of the Universe". NASA WMAP. Archived from the original on 13 August 2006. Retrieved 10 August 2006.�
+	^ Dodelson, 2003, pp. 216–261
+	^ "Galaxy Clusters and Large-Scale Structure". University of Cambridge. Archived from the original on 10 October 2006. Retrieved 8 September 2006.�
+	^ Preuss, Paul. "Dark Energy Fills the Cosmos". U.S. Department of Energy, Berkeley Lab. Archived from the original on 11 August 2006. Retrieved 8 September 2006.�
+	^ Mims III, Forrest M. (1999). "Amateur Science—Strong Tradition, Bright Future". Science 284 (5411): 55–56. Bibcode:1999Sci...284...55M. doi:10.1126/science.284.5411.55. "Astronomy has traditionally been among the most fertile fields for serious amateurs [...]"�
+	^ "The American Meteor Society". Archived from the original on 22 August 2006. Retrieved 24 August 2006.�
+	^ Lodriguss, Jerry. "Catching the Light: Astrophotography". Archived from the original on 1 September 2006. Retrieved 24 August 2006.�
+	^ Ghigo, F. (7 February 2006). "Karl Jansky and the Discovery of Cosmic Radio Waves". National Radio Astronomy Observatory. Archived from the original on 31 August 2006. Retrieved 24 August 2006.�
+	^ "Cambridge Amateur Radio Astronomers". Archived from the original on 24 May 2012. Retrieved 24 August 2006.�
+	^ "The International Occultation Timing Association". Archived from the original on 21 August 2006. Retrieved 24 August 2006.�
+	^ "Edgar Wilson Award". IAU Central Bureau for Astronomical Telegrams. Archived from the original on 24 October 2010. Retrieved 24 October 2010.�
+	^ "American Association of Variable Star Observers". AAVSO. Archived from the original on 2 February 2010. Retrieved 3 February 2010.�
+	^ Kroupa, Pavel (2002). "The Initial Mass Function of Stars: Evidence for Uniformity in Variable Systems". Science 295 (5552): 82–91. arXiv:astro-ph/0201098. Bibcode:2002Sci...295...82K. doi:10.1126/science.1067524. PMID�11778039.�
+	^ "Rare Earth: Complex Life Elsewhere in the Universe?". Astrobiology Magazine. Archived from the original on 28 June 2011. Retrieved 12 August 2006.�
+	^ "The Quest for Extraterrestrial Intelligence". Cosmic Search Magazine. Archived from the original on 18 August 2006. Retrieved 12 August 2006.�
+	^ "11 Physics Questions for the New Century". Pacific Northwest National Laboratory. Archived from the original on 3 February 2006. Retrieved 12 August 2006.�
+	^ Hinshaw, Gary (15 December 2005). "What is the Ultimate Fate of the Universe?". NASA WMAP. Archived from the original on 29 May 2007. Retrieved 28 May 2007.�
+
+
+
+
+Bibliography[edit]
+
+	Forbes, George (1909). History of Astronomy. London: Plain Label Books. ISBN�1-60303-159-6.� Available at Project Gutenberg,Google books
+	Harpaz, Amos (1994). Stellar Evolution. A K Peters, Ltd. ISBN�978-1-56881-012-6.�
+	Unsöld, A.; Baschek, B. (2001). The New Cosmos: An Introduction to Astronomy and Astrophysics. Springer. ISBN�3-540-67877-8.�
+
+
+
+
+
+
+
+
+External links[edit]
+
+	Find more about Astronomy at Wikipedia's sister projects
+		Definitions and translations from Wiktionary
+		Media from Commons
+		Quotations from Wikiquote
+		Source texts from Wikisource
+		Textbooks from Wikibooks
+		Learning resources from Wikiversity
+
+
+	International Year of Astronomy 2009 IYA2009 Main website
+	Cosmic Journey: A History of Scientific Cosmology from the American Institute of Physics
+	Southern Hemisphere Astronomy
+	Celestia Motherlode Educational site for Astronomical journeys through space
+	Prof. Sir Harry Kroto, NL, Astrophysical Chemistry Lecture Series. 8 Freeview Lectures provided by the Vega Science Trust.
+	Core books and core journals in Astronomy, from the Smithsonian/NASA Astrophysics Data System
+	A Journey with Fred Hoyle: Second Edition, by Chandra Wickramasinghe.
+
+
+	
+	
+
+	v
+	t
+	e
+
+
+
+
+Astronomy
+
+
+	
+	
+
+	Outline
+	History
+	Glossary
+
+
+
+
+
+	
+	Astronomy by	
+
+
+	Manner	
+
+	Amateur
+	Observational
+	Sidewalk
+
+
+
+
+
+	
+	Celestial subject	
+
+	Galactic�/ Extragalactic
+	Solar
+
+
+
+
+
+	
+	Method	
+
+	Radio
+	Infrared
+	Visible-light (optical)
+	Ultraviolet
+	X-ray
+	Gamma-ray
+
+
+	High-energy
+	Neutrino
+	Gravitational radiation
+
+
+
+
+
+	
+	Culture	
+
+	Australian Aboriginal
+	Babylonian
+	Chechen (Nakh)
+	Chinese
+	Egyptian
+	Greek
+	Hebrew
+	Indian
+	Inuit
+	Medieval Islamic
+	Tibetan
+
+
+
+
+
+
+
+
+	
+	Optical telescopes	
+
+	List
+	Category
+	Extremely large
+
+
+	Large Binocular Telescope
+	Gran Telescopio Canarias
+	W. M. Keck Observatory
+	Hubble Space Telescope
+
+
+
+
+
+	
+	Related topics	
+
+	Archaeoastronomy
+	Astrophysics
+	Astrology and astronomy
+	Astrometry
+	Astroparticle physics
+	Physical cosmology
+	List of astronomers�(Russian)
+
+
+
+
+
+	
+	Portals	
+
+	Astronomy
+	Solar System�(Mars
+	Jupiter
+	Moon)
+	Space
+	Spaceflight
+	Star
+	X-ray astronomy
+
+
+
+
+
+	
+	
+
+	 Category
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	v
+	t
+	e
+
+
+
+
+Major subfields of astronomy and astrophysics
+
+
+	
+	
+
+	Astrobiology
+	Astrochemistry
+	Astrometry
+	Astrophysics
+	Cosmochemistry
+	Cosmology
+	Extragalactic astronomy
+	Galactic astronomy
+	Orbital mechanics
+	Physical cosmology
+	Planetary geology
+	Planetary science
+	Solar astronomy
+	Stellar astronomy
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+									
+						Retrieved from "http://en.wikipedia.org/w/index.php?title=Astronomy&oldid=613946240"					
+
+													Categories: 	Astronomy
+	Astrophysics
+
+
+Hidden categories: 	Pages containing cite templates with deprecated parameters
+	Good articles
+	Wikipedia indefinitely move-protected pages
+	Use dmy dates from October 2012
+
+
+
+												
+
+							
+
+		
+
+		
+			Navigation menu
+
+
+			
+									
+						Personal tools
+
+							Create account
+	Log in
+
+
+					
+
+									
+										
+						Namespaces
+
+							Article
+	Talk
+
+
+					
+
+										
+						
+													
+
+
+						Variants
+
+
+						
+							
+
+						
+
+					
+
+									
+
+				
+										
+						Views
+
+							Read
+	Edit
+	View history
+
+
+					
+
+										
+						More
+
+
+						
+							
+
+						
+
+					
+
+										
+						
+							Search
+						
+
+
+						
+														
+																							
+
+						
+
+					
+
+									
+
+			
+
+			
+				
+
+						
+			Navigation
+
+
+			
+										Main page
+	Contents
+	Featured content
+	Current events
+	Random article
+	Donate to Wikipedia
+	Wikimedia Shop
+
+
+							
+
+		
+
+			
+			Interaction
+
+
+			
+										Help
+	About Wikipedia
+	Community portal
+	Recent changes
+	Contact page
+
+
+							
+
+		
+
+			
+			Tools
+
+
+			
+										What links here
+	Related changes
+	Upload file
+	Special pages
+	Permanent link
+	Page information
+	Data item
+	Cite this page
+
+
+							
+
+		
+
+			
+			Print/export
+
+
+			
+										Create a book
+	Download as PDF
+	Printable version
+
+
+							
+
+		
+
+			
+			Languages
+
+
+			
+										Afrikaans
+	Alemannisch
+	አማርኛ
+	Ænglisc
+	العربية
+	Aragonés
+	�?ܪܡ�?�?
+	Arpetan
+	অসমীয়া
+	Asturianu
+	Avañe'ẽ
+	�?вар
+	Aymar aru
+	Azərbaycanca
+	Bamanankan
+	বাংলা
+	Bân-lâm-gú
+	Basa Banyumasan
+	Башҡорт�?а
+	Белару�?ка�?
+	Белару�?ка�? (тарашкевіца)‎
+	Българ�?ки
+	Boarisch
+	Bosanski
+	Brezhoneg
+	Бур�?ад
+	Català
+	Чӑвашла
+	Cebuano
+	Čeština
+	ChiShona
+	Corsu
+	Cymraeg
+	Dansk
+	Deutsch
+	ދިވެހިބަ�?ް
+	Dolnoserbski
+	Eesti
+	Ελληνικά
+	Emiliàn e rumagnòl
+	Español
+	Esperanto
+	Estremeñu
+	Euskara
+	�?ارسی
+	Fiji Hindi
+	Føroyskt
+	Français
+	Frysk
+	Furlan
+	Gaeilge
+	Gaelg
+	Gàidhlig
+	Galego
+	贛語
+	ગ�?જરાતી
+	客家語/Hak-kâ-ngî
+	한국어
+	Hawai`i
+	Հայերեն
+	हिन�?दी
+	Hrvatski
+	Ido
+	Ilokano
+	Bahasa Indonesia
+	Interlingua
+	Interlingue
+	�?�ᓄᒃᑎ�?ᑦ/inuktitut
+	Ирон
+	IsiXhosa
+	�?slenska
+	Italiano
+	עברית
+	Basa Jawa
+	Kalaallisut
+	ಕನ�?ನಡ
+	Kapampangan
+	Къарачай-малкъар
+	ქ�?რთული
+	Kaszëbsczi
+	Қазақша
+	Kernowek
+	Kiswahili
+	Kreyòl ayisyen
+	Kurdî
+	Кыргызча
+	Ladino
+	Лакку
+	Лезги
+	ລາວ
+	Latina
+	Latviešu
+	Lëtzebuergesch
+	Lietuvių
+	Ligure
+	Limburgs
+	Lingála
+	Lojban
+	Lumbaart
+	Magyar
+	Македон�?ки
+	Malagasy
+	മലയാളം
+	Malti
+	मराठी
+	მ�?რგ�?ლური
+	مصرى
+	Bahasa Melayu
+	Mirandés
+	Молдовен�?�?к�?
+	Монгол
+	မြန်မာဘာသာ
+	N�?huatl
+	Nederlands
+	Nedersaksies
+	नेपाली
+	नेपाल भाषा
+	日本語
+	Napulitano
+	�?охчийн
+	Nordfriisk
+	Norsk bokmål
+	Norsk nynorsk
+	Nouormand
+	Novial
+	Occitan
+	Олык марий
+	Oʻzbekcha
+	ਪੰਜਾਬੀ
+	پنجابی
+	پښتو
+	Picard
+	Piemontèis
+	Tok Pisin
+	Plattdüütsch
+	Polski
+	Português
+	Română
+	Romani
+	Rumantsch
+	Runa Simi
+	Ру�?инь�?кый
+	Ру�?�?кий
+	Саха тыла
+	Gagana Samoa
+	संस�?कृतम�?
+	Sängö
+	Sardu
+	Scots
+	Seeltersk
+	Sesotho sa Leboa
+	Shqip
+	Sicilianu
+	සිංහල
+	Simple English
+	Sloven�?ina
+	Slovenš�?ina
+	Ślůnski
+	Soomaaliga
+	کوردی
+	Срп�?ки / srpski
+	Srpskohrvatski / �?рп�?кохрват�?ки
+	Basa Sunda
+	Suomi
+	Svenska
+	Tagalog
+	தமிழ�?
+	Татарча/tatarça
+	తెల�?గ�?
+	Tetun
+	ไทย
+	ት�?ርኛ
+	Тоҷикӣ
+	Türkçe
+	Türkmençe
+	Україн�?ька
+	اردو
+	ئۇيغۇرچە / Uyghurche
+	Vèneto
+	Tiếng Việt
+	Volapük
+	Võro
+	Walon
+	West-Vlams
+	Winaray
+	Wolof
+	ייִדיש
+	Yorùbá
+	粵語
+	Zazaki
+	Zeêuws
+	Žemaitėška
+	中文
+	
+
+
+				Edit links
+			
+
+		
+
+				
+
+		
+
+		
+								 This page was last modified on 22 June 2014 at 13:22.
+
+	Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+								Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Developers
+	Mobile view
+
+
+											
+															
+													
+	
+															
+													
+
+
+						
+
+		
+
+		
+
+
+
+	

@@ -1,0 +1,283 @@
+
+
+  
+        
+       
+          
+          
+       
+           
+       
+         
+       
+    
+  
+  
+   
+  
+    	Calendar
+	Results
+	Places
+	News
+	Contact
+
+
+  
+
+  
+    
+      Race Calendar
+
+      
+          	September 
+	October 
+	November 
+	December 
+
+
+      
+
+      
+        	August
+	Aug 24	Burlington Royals/OT Sports 5K	Burlington
+	Aug 24	High Country Half	Boone
+	Aug 24	Run for Life 5K	Cary
+	Aug 24	ACCRF Run for a Cure 5K	Dunn
+	Aug 24	Last Chance for Beantown Marathon	Holly Ridge
+	Aug 24	Raleigh 8000	Raleigh
+	Aug 24	Run for their Lives! 10K/5K	Sanford
+	Aug 24	Maggie Valley Moonlight Race	Maggie Valley
+	Aug 31	Blue Ridge Mountain Throwdown	Boone
+	Aug 31	Run the House 5K	Clemmons
+	September
+	Sept 1	Rock 'n' Roll Half	Virginia Beach
+	Sept 6	Blue Ridge Relay	Asheville
+	Sept 7	Carying Place 5K	Cary
+	Sept 7	Run for a Change 5K	Durham
+	Sept 7	Run 4 the Greenway	Greensboro
+	Sept 7	North Hills 5K	Raleigh
+	Sept 7	Pilot Palooza 10K	Pilot Mt.
+	Sept 7	Trooper Challenge Mud Run	Saxapahaw
+	Sept 8	Blue 5K with Carolina Hurricanes	Raleigh
+	Sept 14	519 Hearts Haiti 10K/5K	Apex
+	Sept 14	River Bound Race Series 5K/Half	Asheville
+	Sept 14	Run Your Heart Out 5K	Cary
+	Sept 14	Get Heeled 5K	Chapel Hill
+	Sept 14	Retro Run 5K	Greensboro
+	Sept 14	Mebane on the Move 10K/5K	Mebane
+	Sept 14	Cupcake 5K	Morrisville
+	Sept 14	Jack and Jill Ran Up the Hill	Morrisville
+	Sept 14	Gail Parkins Memorial 5K	Raleigh
+	Sept 14	Van Dorston Combat Cancer Team 5K	Sanford
+	Sept 14	Run for the Red Full/Half	Valle Crucis
+	Sept 15	Magnificent Mile	Raleigh
+	Sept 21	Run the Valley Half/10K/5K	Badin
+	Sept 21    	Marine Corps Half	Camp Lejeune
+	Sept 21	Amberly Search for a Cure 5K	Cary
+	Sept 21	Fish Out of Water 5K	Cary
+	Sept 21	Dozen Doughnut Dash	Chapel Hill
+	Sept 21	The Wild Stampede	Mebane
+	Sept 21	Tunnel to Towers 5K	Raleigh
+	Sept 21	Midtown Race Series Half/10K/5K	Raleigh
+	Sept 21	Women's Distance Festival	Raleigh
+	Sept 27	Asheville City Full/Half/5K	Asheville
+	Sept 28	Fit to Lead 5K	Cary
+	Sept 28	NC Pride Run	Durham
+	Sept 28	Triad 10 Miler/8K	Greensboro
+	Sept 28	5K Run for Healthier Babies	Morrisville
+	Sept 28	Galloway Ridge 5K	Pittsboro
+	Sept 28	Patrol Stroll 5K	Raleigh
+	Sept 28	The Color Run	Raleigh
+	Sept 28	Buddy Run 5K	Wake Forest
+	Sept 28	Salem Lake 30K/7M	Winston-Salem
+	Sept 29	Global Run 4 Water	Cary
+	Sept 29	Tar Heel Trot	Chapel Hill
+	October
+	Oct 5	Carrboro 10K	Carrboro
+	Oct 5	Cleft Palate Gallop	Chapel Hill
+	Oct 5	Danville Half	Danville, VA
+	Oct 5	Triple Lakes Trail Races Half/Full/40M	Greensboro
+	Oct 5	Selma Railroad Run	Selma
+	Oct 6	Carolina Beach Half	Carolina Beach
+	Oct 6	RunRaleigh Half/5K	Raleigh
+	Oct 11	The Knob 2-Miler	Boone
+	Oct 12	Blue 5K at the SAS	Cary
+	Oct 12	Autumn Steppers 5K	Durham
+	Oct 12	Cannonball Run Half/5K	Greensboro
+	Oct 12	Chick-fil-A Connect Race Series	Greensboro
+	Oct 12	Holly Springs 4 at 4	Holly Springs
+	Oct 12	Triangle Run/Walk for Autism	Raleigh
+	Oct 12	Paws for Life 5K-9	Wake Forest
+	Oct 12	Mount Jefferson Challenge	West Jefferson
+	Oct 13	Say BOO to Cancer 5K	Cary
+	Oct 13	Aging in Stride 5K	Chapel Hill
+	Oct 13	Ales for Rail-Trails 5K	Durham
+	Oct 18	Tuna Run 200	Raleigh
+	Oct 19	Thomas Wolfe 8K	Asheville
+	Oct 19	Super Cooper's Rockin' Run	Chapel Hill
+	Oct 19	Medoc Trail Races	Hollister
+	Oct 19    	Neuse River Bridge Run	New Bern
+	Oct 19	Monster Dash 5K/1 Mile	Pittsboro
+	Oct 19	Oktoberfest Run Green 8K	Raleigh
+	Oct 19	Wetlands 5K	Raleigh
+	Oct 19	The Rivalry Race	RTP
+	Oct 19	Salem 5K on the Greenway	Winston-Salem
+	Oct 20	Bull City Race Fest 	Durham
+	Oct 26	American Tobacco Trail 10 Miler	Apex
+	Oct 26	Eno River Run	Durham
+	Oct 26	Greensboro Full/Half/5K	Greensboro
+	Oct 26	Peak to Creek Marathon	Jonas Ridge
+	Oct 26	Run to Victory Half/5K	Randleman
+	Oct 26	Dream Mile Raleigh 5K	Raleigh
+	Oct 26	Spooktacular Run/Walk	Roxboro
+	Oct 27	Monster Dash 	Raleigh
+	Oct 27	Hallowed Half/10K	Wake Forest
+	November
+	Nov 2	Getzelmania 5K	Morrisville
+	Nov 2	Day of the Dead 5K	Raleigh
+	Nov 2	Lung Cancer Initiative 5K	Raleigh
+	Nov 3	Triad Cross-Country Classic	Kernersville
+	Nov 3	City of Oaks Full/Half	Raleigh
+	Nov 3	Battleship Half/5K	Wilmington
+	Nov 9	Veteran's Day 5K	Lillington
+	Nov 9	Mayberry Half/10K	Mt. Airy
+	Nov 10	Outer Banks Full/Half/8K	Outer Banks
+	Nov 16	NC National MPS Society 5K	Cary
+	Nov 16	Thunder Road Full/Half/5K	Charlotte
+	Nov 16	Richmond Marathon/8K	Richmond, VA
+	Nov 16	Raven Rock Rumble Trail Races	Lillington
+	Nov 17	Race for the Goal 5K	Cary
+	Nov 17	Southern Village 5K	Chapel Hill
+	Nov 23	Chestnut Ridge Trail Runs 8M/4M	Efland
+	Nov 28	Gallop & Gorge 8K	Carrboro
+	Nov 28	IOS Turkey Trot	Cary
+	Nov 28	Greensboro Gobbler	Greensboro
+	Nov 28	Just Think First 5K	Raleigh
+	Nov 28	Ridgewood Turkey Trot	Raleigh
+	Nov 28	Skinny Turkey Half	Raleigh
+	December
+	Dec 7	Zoo City 5K	Asheboro
+	Dec 7	Run at the Rock 7M/14M	Burlington
+	Dec 7	ACC Championship 5K	Charlotte
+	Dec 7	Jingle Bell Run 5K	Raleigh
+	Dec 14	Jolly Elf Trail Run	Cary
+	Dec 14	Running of the Balls	Greensboro
+	Dec 14	Kiawah Island Full/Half	Kiawah Is., SC
+	Dec 31	Run in the New Year (RITNY)	Cary
+
+
+        
+
+       back to top
+
+
+         
+ 
+ 
+ 
+ 
+ 
+
+      
+
+      
+
+    
+  
+    
+          Raleigh, 8/24
+
+          Raleigh, 8/24
+
+          Cary, 9/7
+
+           Mebane, 9/14
+
+           Chapel Hill, 9/21
+  
+           Morrisville, 9/28
+
+           Pittsboro, 9/28
+ 
+           Chapel Hill, 9/29
+ 
+          Carrboro, 10/5
+ 
+          Carolina Beach, 10/6
+       
+          Raleigh, 10/6
+
+          Greensboro, 10/12
+
+          Durham, 10/13
+
+           Chapel Hill, 10/19
+
+          
+          Raleigh, 10/19
+
+         Durham, 10/20
+ 
+          Durham, 10/26
+
+          Greensboro, 10/26
+
+          Randleman, 10/26
+
+          Raleigh, 10/26
+
+         
+         
+        
+   
+
+    
+         Sanford, 8/24
+
+          Raleigh, 9/7
+ 
+         Saxapahaw, 9/7
+ 
+         Valle Crucis, 9/14
+
+          
+
+         
+
+         Chapel Hill, 9/14
+
+         Morrisville, 9/14
+
+         Raleigh, 9/15
+
+         Asheville, 9/27
+
+         Durham, 9/28
+
+         Raleigh, 9/28
+
+         Chapel Hill, 10/5
+ 
+         Cary, 10/13
+
+         Winston-Salem, 10/19
+
+         Apex, 10/26
+
+          Kitty Hawk, 11/10
+
+          Chapel Hill, 11/17
+
+         
+                          
+    
+ 
+
+    © 2010-2013 RunWellNC.com   All rights reserved.   Privacy Policy
+
+  
+  
+
+ 
+
+
